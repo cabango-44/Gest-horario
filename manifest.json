@@ -1,0 +1,19 @@
+{
+  "name": "GestHorários Escolar",
+  "short_name": "GestHorários",
+  "description": "Sistema de Gestão de Horários Escolares",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#1a2340",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"]
+}
